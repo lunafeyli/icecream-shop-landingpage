@@ -1,0 +1,9 @@
+rosa - #FF7FBB
+branco - #FFFEFE
+titulos - #42495B 50px
+stars - #F4BF4D
+
+cards - 370x550
+circle - 74
+
+cards 2- 370x200
